@@ -1,0 +1,38 @@
+html{
+    border:7px solid #bdc3c7;
+    border-radius: 20px;
+    margin: 25px;
+}
+body{
+    font-family: 'Lato', sans-serif;
+    padding: 10px;
+}
+h2{
+    letter-spacing: 3.2px;
+    font-weight: bold;
+    font-size: 48px;
+    color: #3d3d3d;
+    margin-top: 3px;
+    margin-bottom: 0px;
+    
+}
+p{
+    border-bottom: 3px solid #bdc3c7 ;
+    margin-top: 10px;
+    padding-bottom: 15px;
+}
+div{
+    color:#3498db;
+    float: right;
+font-size: 18px;
+line-height: -10%;
+margin-top: -5px;
+}
+
+p:nth-of-type(3) {
+    border-bottom: 10px solid #bdc3c7 ;
+}
+h2:hover{
+    letter-spacing: 15px;
+    text-align: center;
+}
